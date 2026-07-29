@@ -16,33 +16,40 @@ includeInReport: false
 ### Overall Evaluation
 
 **1. Working Environment**  
-The working environment is very friendly and open. FCAJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+The working environment at the First Cloud AI Journey (FCAJ) program is dynamic and tech-driven. Located on the 26th floor of Bitexco Financial Tower, the modern office inspires great creativity for me. Flexible working hours allow me to proactively balance my studies at HCMUT with my internship project tasks.
 
 **2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+The admin team accompanied me very well, proactively checking in, encouraging, and guiding me. Instead of giving answers immediately, they always asked open questions to help me research AWS documentation myself. This developed my self-reliance and engineering problem-solving mindset.
 
 **3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+As a Computer Science student, the AWS FCAJ internship was a perfect fit for me. Theoretical knowledge of Operating Systems, Computer Networks, Databases, and Programming at HCMUT was materialized through leading Cloud services such as EC2, S3, Lambda, or AWS Athena/Glue.
 
 **4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+The program brought learning value beyond my expectations. Technically, I improved my ability to design Cloud Serverless systems, master infrastructure, and automated CI/CD pipelines. In terms of soft skills, I learned teamwork and technical blogging to share knowledge with the AWS Study Group community.
 
 **5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+The team spirit at FCAJ is fantastic. Interns in the same cohort were always ready to support, share knowledge, and tackle challenging labs together. Everyone not only learned together but also frequently chatted and discussed future technology and career paths.
 
 **6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+I gained access to and training on leading AWS Cloud services, as well as opportunities to attend AWS Vietnam technology events.
 
 ---
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+
+* **What did you find most satisfying during your internship?**  
+  What I found most satisfying was getting hands-on experience building an end-to-end Cloud solution from ideation, Proposal writing, technical implementation to preparing materials for a real Workshop.
+
+* **What do you think the company should improve for future interns?**  
+  I think the program should open more days to work on-site at the office and provide a water dispenser.
+
+* **If recommending to a friend, would you suggest they intern here? Why?**  
+  Definitely yes. This is one of the top-quality Cloud & AI Bootcamp internship programs in Vietnam today, providing a fantastic practical experience for any IT student.
 
 ---
 
 ### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+
+* **Suggestions to improve experience:** I suggest expanding more in-depth topics on Generative AI (AWS Bedrock, Amazon Q) in the training curriculum to keep up with the latest technology trends.
+* **Future Expectations:** I really hope to continue accompanying the AWS Study Group community and have the opportunity to apply to become an official AWS Engineer after graduating from HCMUT.
+* **Other Feedback:** Sincere thanks to the Mentors, Admin Team, and AWS Vietnam for creating a truly meaningful and valuable internship for me!

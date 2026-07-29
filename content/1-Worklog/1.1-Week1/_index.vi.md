@@ -10,55 +10,31 @@ reportTableColumns:
   - Ngày hoàn thành
 reportType: worklog
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen với văn hóa làm việc và các thành viên trong chương trình First Cloud AI Journey (FCAJ).
+* Khám phá giao diện AWS Management Console và thực hành 5 bài lab cơ bản trên widget **Explore AWS** (Explore AWS Tasks).
+* Nắm vững cách thiết lập ngân sách cảnh báo, khởi chạy máy chủ, xây dựng ứng dụng Serverless, tạo CSDL và thử nghiệm AI với Amazon Bedrock.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Làm quen với các thành viên FCAJ <br> - Đọc và lưu ý các nội quy, quy định tại đơn vị thực tập                                                                                             | 11/08/2025   | 11/08/2025      |
-| 3   | - Tìm hiểu AWS và các loại dịch vụ <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                            | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tạo AWS Free Tier account <br> - Tìm hiểu AWS Console & AWS CLI <br> - **Thực hành:** <br>&emsp; + Tạo AWS account <br>&emsp; + Cài AWS CLI & cấu hình <br> &emsp; + Cách sử dụng AWS CLI | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tìm hiểu EC2 cơ bản: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - Các cách remote SSH vào EC2 <br> - Tìm hiểu Elastic IP   <br>                  | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Thực hành:** <br>&emsp; + Tạo EC2 instance <br>&emsp; + Kết nối SSH <br>&emsp; + Gắn EBS volume                                                                                         | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --- | --- | --- | --- |
+| 2 | - Làm quen với các thành viên FCAJ và tìm hiểu quy định làm việc.<br>- **Thực hành Lab 1 (AWS Budgets):** Vào AWS Budgets → Tạo `Monthly cost budget` đơn giản ($10/tháng) và đăng ký email nhận thông báo cảnh báo chi phí. | 15/06/2026 | 15/06/2026 | <https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html> |
+| 3 | - Tìm hiểu dịch vụ Điện toán Đám mây Amazon EC2.<br>- **Thực hành Lab 2 (Amazon EC2):** Khởi chạy một EC2 instance nhỏ (t2.micro / Free Tier) từ widget Explore AWS, kiểm tra trạng thái kết nối và thực hiện xóa (`Terminate`) sau khi kết thúc. | 16/06/2026 | 16/06/2026 | <https://docs.aws.amazon.com/ec2/> |
+| 4 | - Tìm hiểu mô hình kiến trúc Serverless trên AWS.<br>- **Thực hành Lab 3 (AWS Lambda):** Chọn bài thực hành xây dựng Serverless Web App qua Blueprint `Getting started with Lambda HTTP`, cấu hình HTTP API trigger và chạy thử ứng dụng. | 17/06/2026 | 17/06/2026 | <https://docs.aws.amazon.com/lambda/> |
+| 5 | - Tìm hiểu dịch vụ Cơ sở dữ liệu quan hệ Amazon RDS.<br>- **Thực hành Lab 4 (Amazon RDS):** Khởi tạo một CSDL Amazon RDS nhỏ (gói Free Tier/Dev/Test), kiểm tra kết nối và xóa (`Delete database`) sau khi hoàn tất bài thực hành. | 18/06/2026 | 18/06/2026 | <https://docs.aws.amazon.com/rds/> |
+| 6 | - Tìm hiểu tổng quan về Trí tuệ nhân tạo tạo sinh (Generative AI) trên AWS.<br>- **Thực hành Lab 5 (Amazon Bedrock):** Truy cập giao diện Bedrock Playground, lựa chọn các mô hình AI nền tảng (Foundation Models) và thực hiện thử nghiệm prompt cơ bản. | 19/06/2026 | 19/06/2026 | <https://docs.aws.amazon.com/bedrock/> |
 
 
 ### Kết quả đạt được tuần 1:
 
-* Hiểu AWS là gì và nắm được các nhóm dịch vụ cơ bản: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Hoàn thành 5 bài lab Explore AWS cơ bản ($20/bài):**
+  1. **AWS Budgets:** Tạo thành công ngân sách cảnh báo chi phí $10/tháng, cấu hình email thông báo tự động khi ngân sách vượt ngưỡng để quản lý chi phí an toàn.
+  2. **Amazon EC2:** Làm chủ quy trình khởi chạy một máy chủ ảo EC2, kiểm tra trạng thái hoạt động và biết cách dọn dẹp tài nguyên (Terminate) đúng quy trình.
+  3. **AWS Lambda:** Hiểu tư duy Serverless, tạo thành công Web App đơn giản bằng AWS Lambda Blueprint tích hợp API Gateway HTTP API.
+  4. **Amazon RDS:** Nắm rõ các bước khởi tạo Instance CSDL quan hệ RDS trên Cloud, cấu hình tham số cơ bản và chủ động xóa tài nguyên để tránh phát sinh chi phí.
+  5. **Amazon Bedrock:** Trải nghiệm trực tiếp giao diện Bedrock Playground, thử nghiệm đưa câu lệnh (prompting) tương tác với các mô hình AI tiên tiến.
 
-* Đã tạo và cấu hình AWS Free Tier account thành công.
-
-* Làm quen với AWS Management Console và biết cách tìm, truy cập, sử dụng dịch vụ từ giao diện web.
-
-* Cài đặt và cấu hình AWS CLI trên máy tính bao gồm:
-  * Access Key
-  * Secret Key
-  * Region mặc định
-  * ...
-
-* Sử dụng AWS CLI để thực hiện các thao tác cơ bản như:
-
-  * Kiểm tra thông tin tài khoản & cấu hình
-  * Lấy danh sách region
-  * Xem dịch vụ EC2
-  * Tạo và quản lý key pair
-  * Kiểm tra thông tin dịch vụ đang chạy
-  * ...
-
-* Có khả năng kết nối giữa giao diện web và CLI để quản lý tài nguyên AWS song song.
-* ...
-
-
+* **Hiểu và sử dụng thành thạo AWS Management Console Home:** Biết cách tận dụng widget *Explore AWS* để thực hành nhanh các dịch vụ AWS cốt lõi một cách trực quan và hiệu quả.

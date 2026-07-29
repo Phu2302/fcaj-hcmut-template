@@ -7,11 +7,6 @@ chapter: false
 
     
 # Internship Report
-
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 ### Student Information:
 &emsp; **Full Name:** Nguyen Le Duc Phu
 
@@ -29,9 +24,9 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 01/06/2025 to 15/08/2025
+&emsp; **Internship Duration:** From June 1, 2026 to August 15, 2026
 
-![Nguyen Le Duc Phu](/images/avatar.png)
+<img src="/images/avatar.png" alt="Nguyen Le Duc Phu" style="width: 160px; height: 160px; object-fit: cover; object-position: center 15%; border-radius: 50%; border: 3px solid #0073bb; box-shadow: 0 8px 20px rgba(0,0,0,0.15); margin: 15px 0;" />
 
 ### Report Content
 

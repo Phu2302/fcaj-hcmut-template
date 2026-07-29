@@ -4,64 +4,37 @@ date: 2024-01-01
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
-includeInReport: true
 reportTableColumns:
   - Day
   - Task
   - Completion Date
-reportHeadings:
-  - Week 1 Objectives
-  - Tasks to be carried out this week
-  - Week 1 Achievements
 reportType: worklog
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
-
 
 ### Week 1 Objectives:
 
-* Connect and get acquainted with members of First Cloud AI Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Get acquainted with the working culture and members of the First Cloud AI Journey (FCAJ) program.
+* Explore the AWS Management Console interface and complete 5 fundamental hands-on tasks via the **Explore AWS** widget.
+* Master setting up cost budgets, launching servers, building serverless applications, provisioning databases, and experimenting with AI on Amazon Bedrock.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCAJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
+
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| 2 | - Meet FCAJ members and review internship guidelines.<br>- **Practice Task 1 (AWS Budgets):** Navigate to AWS Budgets → Create a simple `Monthly cost budget` ($10/month) and set up email notifications for cost alerts. | 15/06/2026 | 15/06/2026 | <https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html> |
+| 3 | - Learn about Amazon EC2 Cloud Computing services.<br>- **Practice Task 2 (Amazon EC2):** Launch a small EC2 instance (t2.micro / Free Tier) via the Explore AWS widget, verify its running status, and `Terminate` it upon completion. | 16/06/2026 | 16/06/2026 | <https://docs.aws.amazon.com/ec2/> |
+| 4 | - Learn about Serverless Architecture patterns on AWS.<br>- **Practice Task 3 (AWS Lambda):** Select the Serverless Web App task using the Blueprint `Getting started with Lambda HTTP`, configure HTTP API triggers, and test the app. | 17/06/2026 | 17/06/2026 | <https://docs.aws.amazon.com/lambda/> |
+| 5 | - Learn about Amazon RDS relational database services.<br>- **Practice Task 4 (Amazon RDS):** Provision a small Amazon RDS database instance (Free Tier/Dev/Test tier), verify connection, and delete the database post-testing. | 18/06/2026 | 18/06/2026 | <https://docs.aws.amazon.com/rds/> |
+| 6 | - Learn about Generative AI fundamentals on AWS.<br>- **Practice Task 5 (Amazon Bedrock):** Access the Bedrock Playground interface, select Foundation Models (FM), and test basic prompts. | 19/06/2026 | 19/06/2026 | <https://docs.aws.amazon.com/bedrock/> |
 
 
 ### Week 1 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
+* **Completed 5 Explore AWS Hands-on Tasks ($20/task):**
+  1. **AWS Budgets:** Successfully created a $10/month cost budget and configured automated email alerts when spending thresholds are reached.
+  2. **Amazon EC2:** Mastered launching a virtual EC2 server, verifying connection status, and terminating resources properly.
+  3. **AWS Lambda:** Understood Serverless concepts and created a simple Web App using the AWS Lambda Blueprint with API Gateway HTTP API integration.
+  4. **Amazon RDS:** Understood provisioning relational databases on AWS Cloud, configured basic settings, and deleted resources after testing to avoid costs.
+  5. **Amazon Bedrock:** Experienced the Bedrock Playground interface directly, testing prompts to interact with advanced Foundation Models.
 
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* **Mastered Using the AWS Management Console Home:** Learned how to leverage the *Explore AWS* widget to practice core AWS services intuitively and efficiently.

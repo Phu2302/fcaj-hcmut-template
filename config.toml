@@ -1,4 +1,4 @@
-baseURL = "https://phu2302.github.io/fcaj-hcmut-template2/"
+baseURL = "/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"

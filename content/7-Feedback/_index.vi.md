@@ -6,40 +6,43 @@ chapter: false
 pre: " <b> 7. </b> "
 includeInReport: false
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
-
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud AI Journey, giúp team FCAJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
-
 ### Đánh giá chung
 
 **1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCAJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+Môi trường làm việc tại chương trình First Cloud AI Journey (FCAJ) năng động và đậm chất công nghệ. Văn phòng làm việc tại tầng 26 Bitexco sang trọng, tạo nguồn cảm hứng sáng tạo rất lớn cho em. Giờ giấc làm việc linh hoạt giúp em chủ động cân bằng giữa việc học trên trường Bách Khoa và làm dự án thực tập. 
 
 **2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+Team admin đồng hành cùng em rất tốt, chủ động hỏi han, động viên và hướng dẫn. Thay vì chỉ cho đáp án ngay, anh/chị luôn đặt ra các câu hỏi gợi mở để em tự nghiên cứu tài liệu AWS. Điều này rèn luyện cho em tính tự lập và tư duy giải quyết vấn đề chuẩn doanh nghiệp.
 
 **3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+Là sinh viên chuyên ngành Khoa học Máy tính, kỳ thực tập tại AWS FCAJ là một mảnh ghép hoàn hảo đối với em. Những kiến thức lý thuyết về Hệ điều hành, Mạng máy tính, Cơ sở dữ liệu và Lập trình tại ĐH Bách Khoa được hiện thực hóa qua các dịch vụ Cloud hàng đầu như EC2, S3, Lambda hay AWS Athena/Glue. 
 
 **4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+Chương trình mang lại giá trị học tập vượt kỳ vọng của em. Về mặt kỹ thuật, em đã nâng cao khả năng thiết kế hệ thống Cloud Serverless, làm chủ hạ tầng và quy trình CI/CD tự động. Về kỹ năng mềm, em học được cách làm việc nhóm và viết bài Blog chia sẻ tri thức cho cộng đồng AWS Study Group.
 
 **5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+Tinh thần đồng đội tại FCAJ rất tuyệt vời. Các bạn thực tập sinh trong cùng khóa luôn sẵn sàng hỗ trợ, trao đổi kiến thức và cùng em vượt qua các bài lab khó. Mọi người không chỉ học cùng nhau mà còn thường xuyên trò chuyện, trao đổi về định hướng công nghệ và nghề nghiệp trong tương lai.
 
 **6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+Em được tiếp cận và training về các dịch vụ Cloud hàng đầu của AWS, tham dự các event của AWS Việt Nam.
 
+---
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
 
+* **Điều em hài lòng nhất trong thời gian thực tập?**  
+  Điều em hài lòng nhất là được tiếp cận để tự tay xây dựng một giải pháp Cloud hoàn chỉnh từ bước lên ý tưởng, viết đề xuất (Proposal), triển khai kỹ thuật cho tới viết bài chuẩn bị Workshop thực tế.
+
+* **Điều em nghĩ công ty cần cải thiện cho các thực tập sinh sau?**  
+  Em nghĩ chương trình nên mở nhiều ngày lên công ty hơn và có chỗ rút nước lọc.
+
+* **Nếu giới thiệu cho bạn bè, em có khuyên họ thực tập ở đây không? Vì sao?**  
+  Chắc chắn là có. Đây là một trong những chương trình thực tập Bootcamp về Điện toán đám mây & AI chất lượng hàng đầu tại Việt Nam hiện nay, mang lại trải nghiệm thực chiến tuyệt vời cho bất kỳ sinh viên IT nào.
+
+---
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+
+* **Đề xuất nâng cao trải nghiệm:** Em đề xuất chương trình mở rộng thêm các chuyên đề chuyên sâu về Generative AI (AWS Bedrock, Amazon Q) trong khóa đào tạo để bắt kịp xu hướng công nghệ mới nhất.
+* **Mong muốn tương lai:** Em rất mong muốn được tiếp tục đồng hành cùng cộng đồng AWS Study Group và có cơ hội ứng tuyển trở thành Kỹ sư AWS chính thức sau khi tốt nghiệp ĐH Bách Khoa.
+* **Góp ý khác:** Em xin chân thành cảm ơn các anh chị Mentor, Team Admin và AWS Việt Nam đã tạo ra một kỳ thực tập vô cùng ý nghĩa và giá trị cho em!
