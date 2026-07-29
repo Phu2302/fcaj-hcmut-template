@@ -13,25 +13,25 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Nguyen Le Duc Phu
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0933256251
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** phu.nguyen23022005@hcmut.edu.vn
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** Ho Chi Minh City University of Technology (VNU-HCM)
 
-&emsp; **Major:** Information Technology
+&emsp; **Major:** Computer Science
 
-&emsp; **Class:** AWS082025
+&emsp; **Class:** CC23KHM
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 01/06/2025 to 15/08/2025
 
-![Your profile picture](/images/avatar.png)
+![Nguyen Le Duc Phu](/images/avatar.png)
 
 ### Report Content
 
