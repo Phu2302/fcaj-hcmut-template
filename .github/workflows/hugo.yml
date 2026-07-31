@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build website
-        run: hugo --minify -b "https://phu2302.github.io/fcaj-hcmut-template2/"
+        run: hugo --minify -b "https://phu2302.github.io/fcaj-hcmut-template/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
