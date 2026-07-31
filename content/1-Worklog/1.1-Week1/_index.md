@@ -21,11 +21,11 @@ reportType: worklog
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Meet FCAJ members and review internship guidelines.<br>- **Practice Task 1 (AWS Budgets):** Navigate to AWS Budgets → Create a simple `Monthly cost budget` ($10/month) and set up email notifications for cost alerts. | 15/06/2026 | 15/06/2026 | <https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html> |
-| 3 | - Learn about Amazon EC2 Cloud Computing services.<br>- **Practice Task 2 (Amazon EC2):** Launch a small EC2 instance (t2.micro / Free Tier) via the Explore AWS widget, verify its running status, and `Terminate` it upon completion. | 16/06/2026 | 16/06/2026 | <https://docs.aws.amazon.com/ec2/> |
-| 4 | - Learn about Serverless Architecture patterns on AWS.<br>- **Practice Task 3 (AWS Lambda):** Select the Serverless Web App task using the Blueprint `Getting started with Lambda HTTP`, configure HTTP API triggers, and test the app. | 17/06/2026 | 17/06/2026 | <https://docs.aws.amazon.com/lambda/> |
-| 5 | - Learn about Amazon RDS relational database services.<br>- **Practice Task 4 (Amazon RDS):** Provision a small Amazon RDS database instance (Free Tier/Dev/Test tier), verify connection, and delete the database post-testing. | 18/06/2026 | 18/06/2026 | <https://docs.aws.amazon.com/rds/> |
-| 6 | - Learn about Generative AI fundamentals on AWS.<br>- **Practice Task 5 (Amazon Bedrock):** Access the Bedrock Playground interface, select Foundation Models (FM), and test basic prompts. | 19/06/2026 | 19/06/2026 | <https://docs.aws.amazon.com/bedrock/> |
+| 2 | - Meet FCAJ members and review internship guidelines.<br>- **Practice Task 1 (AWS Budgets):** Navigate to AWS Budgets → Create a simple `Monthly cost budget` ($10/month) and set up email notifications for cost alerts. | June 15, 2026 | June 15, 2026 | <https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-managing-costs.html> |
+| 3 | - Learn about Amazon EC2 Cloud Computing services.<br>- **Practice Task 2 (Amazon EC2):** Launch a small EC2 instance (t2.micro / Free Tier) via the Explore AWS widget, verify its running status, and `Terminate` it upon completion. | June 16, 2026 | June 16, 2026 | <https://docs.aws.amazon.com/ec2/> |
+| 4 | - Learn about Serverless Architecture patterns on AWS.<br>- **Practice Task 3 (AWS Lambda):** Select the Serverless Web App task using the Blueprint `Getting started with Lambda HTTP`, configure HTTP API triggers, and test the app. | June 17, 2026 | June 17, 2026 | <https://docs.aws.amazon.com/lambda/> |
+| 5 | - Learn about Amazon RDS relational database services.<br>- **Practice Task 4 (Amazon RDS):** Provision a small Amazon RDS database instance (Free Tier/Dev/Test tier), verify connection, and delete the database post-testing. | June 18, 2026 | June 18, 2026 | <https://docs.aws.amazon.com/rds/> |
+| 6 | - Learn about Generative AI fundamentals on AWS.<br>- **Practice Task 5 (Amazon Bedrock):** Access the Bedrock Playground interface, select Foundation Models (FM), and test basic prompts. | June 19, 2026 | June 19, 2026 | <https://docs.aws.amazon.com/bedrock/> |
 
 
 ### Week 1 Achievements:

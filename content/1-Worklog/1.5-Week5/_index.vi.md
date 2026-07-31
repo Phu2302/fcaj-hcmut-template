@@ -13,22 +13,22 @@ reportType: worklog
 
 ### Mục tiêu tuần 5:
 
-* Hoàn thiện các chức năng Backend còn lại và sửa lỗi.
-* Bắt đầu xây dựng hạ tầng AWS cho dự án.
+* Tích hợp trình biên soạn mã trực tuyến Monaco Code Editor cho các bài tập trắc nghiệm / lập trình.
+* Hoàn thiện giao diện Diễn đàn (Forum), Bảng điểm, Đăng ký học phần và kết nối API với Backend.
 
 ### Các công việc cần triển khai trong tuần này:
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Phát triển API Forum: tạo bài viết, bình luận, phân trang.<br>- Phát triển API Materials: upload file lên S3 với presigned URL.<br>- Viết model và controller cho ForumData, Material. | 13/07/2026 | 13/07/2026 | |
-| 3 | - Phát triển module Quiz: tạo quiz, câu hỏi MCQ, Short Answer, Code.<br>- Tích hợp Judge0 API để chấm bài tập lập trình tự động.<br>- Viết controller code execution và test với Postman. | 14/07/2026 | 14/07/2026 | |
-| 4 | - Phát triển các API còn lại: Announcements, Support Tickets, Student Requests.<br>- Sửa lỗi và tối ưu các API đã viết trong tuần 4.<br>- Kiểm tra tích hợp với Frontend qua CORS. | 15/07/2026 | 15/07/2026 | |
-| 5 | - Bắt đầu xây dựng hạ tầng AWS: tạo EC2 instance cho Backend.<br>- Cấu hình Security Group, mở cổng 3000 và SSH.<br>- Tạo S3 bucket để lưu trữ file tĩnh và tài liệu upload. | 16/07/2026 | 16/07/2026 | |
-| 6 | - Code review toàn bộ dự án, sửa lỗi logic và xử lý edge cases.<br>- Viết thêm validation và error handling cho API.<br>- Họp nhóm đánh giá tiến độ, lên kế hoạch triển khai tuần 6. | 17/07/2026 | 17/07/2026 | |
+| 2 | - Tích hợp trình soạn thảo code **Monaco Code Editor** (`@monaco-editor/react`) cho giao diện làm bài tập lập trình (`QuizPage`).<br>- Hỗ trợ syntax highlighting và tùy chọn ngôn ngữ (C++, Python, JavaScript). | 13/07/2026 | 13/07/2026 | |
+| 3 | - Phát triển giao diện Diễn đàn học tập (`Forum`).<br>- Xây dựng trang Đăng câu hỏi & Thảo luận (`ForumPostPage`) giữa sinh viên và giảng viên. | 14/07/2026 | 14/07/2026 | |
+| 4 | - Thiết kế giao diện Trang Đăng ký học phần (`CourseRegistration`).<br>- Phát triển giao diện Bảng điểm (`Scoreboard`) và Hồ sơ cá nhân (`ProfilePage`). | 15/07/2026 | 15/07/2026 | |
+| 5 | - Cấu hình `Axios Interceptor` kết nối Frontend với Backend API.<br>- Tự động đính kèm Bearer Token vào header và xử lý điều hướng tự động khi hết hạn phiên làm việc (401 Unauthorized). | 16/07/2026 | 16/07/2026 | |
+| 6 | - Kiểm thử toàn bộ luồng người dùng (User Flow), sửa lỗi UI/UX và tối ưu hiệu năng trang web.<br>- Họp nhóm đánh giá hoàn thiện Frontend, chuẩn bị cho tuần triển khai lên Cloud AWS. | 17/07/2026 | 17/07/2026 | |
 
 
 ### Kết quả đạt được sau tuần 5:
 
-* Hoàn thiện toàn bộ Backend API: Auth, Classes, Courses, Schedules, Grades, Forums, Materials, Quizzes, Code Execution, Announcements, Support Tickets.
-* Tích hợp thành công Judge0 API cho chức năng chấm code tự động.
-* Hạ tầng AWS cơ bản đã được khởi tạo: EC2, S3, Security Groups.
+* Tích hợp thành công Monaco Code Editor cho trải nghiệm thực hành lập trình trực tiếp trên trình duyệt.
+* Hoàn thiện toàn bộ các trang giao diện Frontend chính: Quiz, Forum, Đăng ký học phần, Bảng điểm và Hồ sơ cá nhân.
+* Tích hợp thành công API giữa Frontend và Backend, sẵn sàng cho đóng gói ứng dụng.

@@ -20,11 +20,11 @@ reportType: worklog
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - End-to-end testing across entire application: auth, courses, quizzes, forums, services.<br>- Cross-device and multi-browser testing.<br>- Log bugs and assign fixes. | 27/07/2026 | 27/07/2026 | |
-| 3 | - Fix remaining UI/UX issues.<br>- Performance optimization: lazy loading, caching, asset compression.<br>- Update README and write user guides. | 28/07/2026 | 28/07/2026 | |
-| 4 | - Write internship report: summarize 7-week working process.<br>- Document system architecture, technology stack, deployed features.<br>- Capture screenshots of key features for the report. | 29/07/2026 | 29/07/2026 | |
-| 5 | - Finalize report contents: achievements, key takeaways.<br>- Proofread spelling, formatting, and report layout. | 30/07/2026 | 30/07/2026 | |
-| 6 | - Submit internship report.<br>- Project retrospective, lessons learned, and future roadmap planning. | 31/07/2026 | 31/07/2026 | |
+| 2 | - End-to-end testing across entire application: auth, courses, quizzes, forums, services.<br>- Cross-device and multi-browser testing.<br>- Log bugs and assign fixes. | July 27, 2026 | July 27, 2026 | |
+| 3 | - Fix remaining UI/UX issues.<br>- Performance optimization: lazy loading, caching, asset compression.<br>- Update README and write user guides. | July 28, 2026 | July 28, 2026 | |
+| 4 | - Write internship report: summarize 7-week working process.<br>- Document system architecture, technology stack, deployed features.<br>- Capture screenshots of key features for the report. | July 29, 2026 | July 29, 2026 | |
+| 5 | - Finalize report contents: achievements, key takeaways.<br>- Proofread spelling, formatting, and report layout. | July 30, 2026 | July 30, 2026 | |
+| 6 | - Submit internship report.<br>- Project retrospective, lessons learned, and future roadmap planning. | July 31, 2026 | July 31, 2026 | |
 
 
 ### Week 7 Achievements:

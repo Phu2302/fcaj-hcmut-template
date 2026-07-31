@@ -17,8 +17,8 @@ Dưới đây là bảng tổng hợp công việc chính theo từng tuần:
 | **2** | 22/06 – 26/06/2026 | Thực hành triển khai các dịch vụ AWS cốt lõi | [Xem](1.2-Week2/) |
 | **3** | 29/06 – 03/07/2026 | Lên kế hoạch và thiết kế kiến trúc đồ án nhóm | [Xem](1.3-Week3/) |
 | **4** | 06/07 – 10/07/2026 | Thiết kế giao diện và xây dựng Frontend | [Xem](1.4-Week4/) |
-| **5** | 13/07 – 17/07/2026 | Hoàn thiện và sửa bug & xây dựng hạ tầng AWS | [Xem](1.5-Week5/) |
+| **5** | 13/07 – 17/07/2026 | Phát triển Frontend nâng cao (Monaco Editor, Forum) & Tích hợp API | [Xem](1.5-Week5/) |
 | **6** | 20/07 – 24/07/2026 | Triển khai ứng dụng hoàn chỉnh lên hạ tầng AWS | [Xem](1.6-Week6/) |
 | **7** | 27/07 – 31/07/2026 | Hoàn thiện nội dung báo cáo thực tập và bài thu hoạch | [Xem](1.7-Week7/) |
-| **8** | 03/08 – 07/08/2026 | Tự học thêm các kiến thức mở rộng & Viết Blog | [Xem](1.8-Week8/) |
-| **9** | 10/08 – 14/08/2026 | Tổng kết kỳ thực tập và tự nghiên cứu nâng cao | [Xem](1.9-Week9/) |
+| **8** | 03/08 – 07/08/2026 | Tự học | [Xem](1.8-Week8/) |
+| **9** | 10/08 – 14/08/2026 | Tự học | [Xem](1.9-Week9/) |

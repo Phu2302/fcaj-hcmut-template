@@ -13,22 +13,22 @@ reportType: worklog
 
 ### Week 4 Objectives:
 
-* Start Backend development: implement core APIs for the LMS project.
-* Set up local DynamoDB environment and connect it with the server.
+* Initialize React/Vite project for LMS Frontend, set up UI layout and component architecture.
+* Build Login UI, Dashboard, Course List, and Schedule interfaces.
 
 ### Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Clone repository to local machine, install dependencies.<br>- Configure environment variables (`.env`) for MySQL and DynamoDB.<br>- Run local server and test `/health` endpoint. | 06/07/2026 | 06/07/2026 | |
-| 3 | - Build login/registration API using JWT.<br>- Create User model and authentication middleware.<br>- Test API with Postman: `POST /auth/login`, `POST /users`. | 07/07/2026 | 07/07/2026 | |
-| 4 | - Develop Classes & Courses API: `GET`, `POST`, `PUT`, `DELETE`.<br>- Write Class and Course models, query DynamoDB with GSI.<br>- Run `seed_sample_data.sh` script to populate sample data. | 08/07/2026 | 08/07/2026 | |
-| 5 | - Develop Schedules & Grades API.<br>- Design StudentSchedule table schema.<br>- Write controllers and routes for schedule and grade viewing features. | 09/07/2026 | 09/07/2026 | |
-| 6 | - Code review developed APIs, fix bugs, and optimize.<br>- Team meeting to check progress and plan for Week 5. | 10/07/2026 | 10/07/2026 | |
+| 2 | - Initialize React 19 + Vite project (`TTNT-frontend`), setup directory structure (`components`, `pages`, `contexts`, `api`).<br>- Install essential packages: Axios, React Router DOM, Lucide Icons. | July 06, 2026 | July 06, 2026 | |
+| 3 | - Design Login page interface (`LoginPage`).<br>- Build `AuthContext` to manage JWT Token storage and role-based access control (Student/Teacher/Admin). | July 07, 2026 | July 07, 2026 | |
+| 4 | - Construct smooth Header & Sidebar Navigation for the application.<br>- Develop Course Overview UI (`CourseOverview`) and Chapter-based Course Details (`Chapters`). | July 08, 2026 | July 08, 2026 | |
+| 5 | - Build Student Schedule & Calendar page (`Schedule` & `CalendarPage`).<br>- Integrate `FullCalendar` library for interactive weekly/monthly schedule views. | July 09, 2026 | July 09, 2026 | |
+| 6 | - Conduct code review of developed interfaces, test responsive layout.<br>- Hold team sync to review Frontend progress and plan Week 5 tasks. | July 10, 2026 | July 10, 2026 | |
 
 
 ### Week 4 Achievements:
 
-* Backend runs stably on local environment with DynamoDB and MySQL.
-* Completed foundational APIs: Auth, Users, Classes, Courses, Schedules, Grades.
-* Database populated with sample data, ready for testing and Frontend development.
+* Successfully established Frontend framework with React 19 + Vite and routing system.
+* Completed Login UI, Navigation bar, Dashboard, Course details, and Student schedule views.
+* Ensured responsive, fast-loading, and intuitive user interfaces.

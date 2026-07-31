@@ -20,11 +20,11 @@ reportType: worklog
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - Team meeting to agree on project idea and scope.<br>- Define core features of the Student Management Website.<br>- Sketch preliminary UI mockups. | 29/06/2026 | 29/06/2026 | |
-| 3 | - Design system architecture: Frontend, Backend, Database.<br>- Select technology stack.<br>- Draw data flow diagrams between components. | 30/06/2026 | 30/06/2026 | |
-| 4 | - Design database schema: Students, Courses, Grades tables.<br>- Design RESTful API endpoints.<br>- Assign tasks: Frontend, Backend, Database. | 01/07/2026 | 01/07/2026 | |
-| 5 | - Create GitHub repository, setup branching strategy and Git workflow.<br>- Initialize development environment (Node.js, AWS CLI).<br>- Write project documentation (README). | 02/07/2026 | 02/07/2026 | |
-| 6 | - Finalize detailed design document.<br>- Create task backlog on project management tool.<br>- Confirm timeline and delivery milestones. | 03/07/2026 | 03/07/2026 | |
+| 2 | - Team meeting to agree on project idea and scope.<br>- Define core features of the Student Management Website.<br>- Sketch preliminary UI mockups. | June 29, 2026 | June 29, 2026 | |
+| 3 | - Design system architecture: Frontend, Backend, Database.<br>- Select technology stack.<br>- Draw data flow diagrams between components. | June 30, 2026 | June 30, 2026 | |
+| 4 | - Design database schema: Students, Courses, Grades tables.<br>- Design RESTful API endpoints.<br>- Assign tasks: Frontend, Backend, Database. | July 01, 2026 | July 01, 2026 | |
+| 5 | - Create GitHub repository, setup branching strategy and Git workflow.<br>- Initialize development environment (Node.js, AWS CLI).<br>- Write project documentation (README). | July 02, 2026 | July 02, 2026 | |
+| 6 | - Finalize detailed design document.<br>- Create task backlog on project management tool.<br>- Confirm timeline and delivery milestones. | July 03, 2026 | July 03, 2026 | |
 
 
 ### Week 3 Achievements:
