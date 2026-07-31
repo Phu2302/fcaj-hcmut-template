@@ -23,7 +23,7 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Thời gian thực tập:** Từ ngày 15/06/2026 đến ngày 15/08/2026
+&emsp; **Thời gian thực tập:** Từ ngày 15/06/2026 đến ngày 14/08/2026
 
 <div align="center">
   <img src="/images/avatar.png" alt="Nguyễn Lê Đức Phú" style="width: 200px; height: 200px; object-fit: cover; object-position: center 15%; border-radius: 50%; border: 4px solid #0073bb; box-shadow: 0 8px 25px rgba(0,0,0,0.18); margin: 20px auto; display: block;" />

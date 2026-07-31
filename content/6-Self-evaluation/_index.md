@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 includeInReport: false
 ---
-During my internship at **Amazon Web Services Viet Nam Company Limited** from **June 15, 2026** to **August 15, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
+During my internship at **Amazon Web Services Viet Nam Company Limited** from **June 15, 2026** to **August 14, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
 I participated in the **Student Management Website** project together with two other members, **Nguyen Cong Vinh** and **Nguyen Hoang Thong**, through which I improved my skills in **programming, testing, communication, and time management**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.

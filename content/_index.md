@@ -24,7 +24,7 @@ chapter: false
 
 &emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-&emsp; **Internship Duration:** From June 15, 2026 to August 15, 2026
+&emsp; **Internship Duration:** From June 15, 2026 to August 14, 2026
 
 <div align="center">
   <img src="/images/avatar.png" alt="Nguyen Le Duc Phu" style="width: 200px; height: 200px; object-fit: cover; object-position: center 15%; border-radius: 50%; border: 4px solid #0073bb; box-shadow: 0 8px 25px rgba(0,0,0,0.18); margin: 20px auto; display: block;" />
